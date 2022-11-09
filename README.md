@@ -1,6 +1,6 @@
 # 차트 라이브러리
 -------------------------------
-1. chartjs
+##1. chartjs
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
 
@@ -38,7 +38,7 @@ new Chart("Chart1", {
 </body>
 ```
 
-2. echart
+##2. echart
 ```html
 <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.0/dist/echarts.min.js"></script>
 </head>
@@ -75,7 +75,7 @@ new Chart("Chart1", {
     </body>
     ```
     
-3. d3
+##3. d3
 
 ```html
 <script src="https://d3js.org/d3.v4.min.js"></script>
