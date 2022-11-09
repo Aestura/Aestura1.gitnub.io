@@ -149,5 +149,5 @@ new Chart("Chart1", {
 </body>
 ```
 
-*github.io: <https://aestura.github.io/Aestura1.gitnub.io/>
+* github.io: <https://aestura.github.io/Aestura1.gitnub.io/>
 
