@@ -72,8 +72,7 @@ new Chart("Chart1", {
         // 위에서 설정한 속성을 차트에 반영합니다.
         myChart.setOption(option);
     </script>
-    </body>
-    ```
+    </body>```
     
 * D3
 ```html
