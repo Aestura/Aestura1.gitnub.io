@@ -75,7 +75,7 @@ new Chart("Chart1", {
     </body>
     ```
     
-* d3
+* D3
 ```html
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <body>
@@ -141,5 +141,4 @@ new Chart("Chart1", {
          .attr("height", function(d) { return height - yScale(d.value); });
     });
 </script>
-</body>
-```
+</body>```
