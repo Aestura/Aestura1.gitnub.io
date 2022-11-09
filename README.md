@@ -72,8 +72,14 @@ new Chart("Chart1", {
         // 위에서 설정한 속성을 차트에 반영합니다.
         myChart.setOption(option);
     </script>
-    </body>```
-    
+    </body>
+```
+  
+  
+  
+  
+  
+  
 * D3
 ```html
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -140,4 +146,5 @@ new Chart("Chart1", {
          .attr("height", function(d) { return height - yScale(d.value); });
     });
 </script>
-</body>```
+</body>
+```
